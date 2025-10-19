@@ -34,6 +34,8 @@ This is a HTML5 application, built with [Brunch](http://brunch.io) and some npm 
 
 This skeleton has custom project structure: you can use coffeescript, sass and handlebars the following way:
 
+
+
 * All pages located in `app/pages`
 * All partials located and loaded from `app/partials`
 * You can define template layouts in `app/layouts`.
