@@ -37,7 +37,7 @@ This skeleton has custom project structure: you can use coffeescript, sass and h
 
 
 * All pages located in `app/pages`
-* 
+  
 * All partials located and loaded from `app/partials`
 * You can define template layouts in `app/layouts`.
 
