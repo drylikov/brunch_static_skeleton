@@ -26,6 +26,8 @@ This is a HTML5 application, built with [Brunch](http://brunch.io) and some npm 
   * Place static files you want to be copied from `app/assets/` to `public/`.
   * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
 
+
+
 ## Project structure
 
 This skeleton has custom project structure: you can use coffeescript, sass and handlebars the following way:
