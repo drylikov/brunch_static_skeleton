@@ -11,6 +11,8 @@ This is a HTML5 application, built with [Brunch](http://brunch.io) and some npm 
 
 ## Getting started
 
+
+
 * Install (if you don't have them):
   * [Node.js](http://nodejs.org): `brew install node` on OS X
   * [Brunch](http://brunch.io): `npm install -g brunch`
