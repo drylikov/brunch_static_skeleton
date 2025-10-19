@@ -30,6 +30,8 @@ This is a HTML5 application, built with [Brunch](http://brunch.io) and some npm 
 
 ## Project structure
 
+
+
 This skeleton has custom project structure: you can use coffeescript, sass and handlebars the following way:
 
 * All pages located in `app/pages`
