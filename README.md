@@ -40,6 +40,8 @@ This skeleton has custom project structure: you can use coffeescript, sass and h
 * All partials located and loaded from `app/partials`
 * You can define template layouts in `app/layouts`.
 
+
+
 > These files must end with `.static.hbs` extension.
 
 You can read more information about static files in [html-brunch-static](https://github.com/bmatcuk/html-brunch-static) project.
